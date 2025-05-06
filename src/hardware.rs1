@@ -1,0 +1,15 @@
+/*use std::process::Command; // Aquí importas el módulo 'result'
+#[cfg(target_os = "windows")]
+fn obtener_info_dispositivos() -> Result<String, std::io::Error> {
+    let output = Command::new("systeminfo").output()?;
+    Ok(String::from_utf8_lossy(&output.stdout).trim().to_string())
+}
+pub fn mifuncion() -> Result<(), std::io::Error> { // Aquí usas el enum 'Result'
+    let info = obtener_info_dispositivos()?;
+    println!("{}", info);
+    Ok(())
+}
+fn main() -> Result<(), std::io::Error> {
+    mifuncion()?;
+    Ok(())
+}*/
