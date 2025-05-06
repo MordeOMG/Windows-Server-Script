@@ -11,6 +11,8 @@ ultimamente. Asi que dicho esto, aquì se irà desaroyando la documentaciòn de 
 
 ![Logo](Logo_k.png)
 
+Peace was never an option.
+
 
 Hola, se supone que no deberias estàr aquì ya que este es un pequeño "proyecto" personal ya que se supone que solo quiero
 automatizar una tarea que debo hacer de forma repetitiva y recurrente, de cualquier manera si esta herramienta le es util,
