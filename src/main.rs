@@ -53,15 +53,14 @@ fn main() -> io::Result<()> {
         Err(error) => {
             eprintln!("Error al leer el archivo '{}': {}", archivo, error);
         }
-    };
-
+    }
     loop {
 //      println!("\nIngrese su selección (1-5):");
         let mut menu = String::new();
         io::stdin()
             .read_line(&mut menu)
             .expect("Error al leer la línea");
-
+//pinhe rust
         let opcion = menu.trim().to_lowercase();
 
         match opcion.as_str() {
