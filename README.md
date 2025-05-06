@@ -9,7 +9,7 @@ cuales son cada ves mas costosos)
 Se podria decir que este programa es hecho como una forma de protesta ante, las tremendas burradas hechas por microsoft
 ultimamente. Asi que dicho esto, aquì se irà desaroyando la documentaciòn de este programa que se encuentra en proceso.
 
-![Logo](Logo_.png)
+![Logo](Logo_k.png)
 
 
 Hola, se supone que no deberias estàr aquì ya que este es un pequeño "proyecto" personal ya que se supone que solo quiero
